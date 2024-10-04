@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Digi24.ro",Digi 24 HD
-https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1 tvg-id="AlephNews.ro",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="Canal33.ro",Canal 33
+https://ythls.armelin.one/channel/UChXVCKn5sa-e-bNXjX47lJw.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us",CBS News 24/7 HD
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetwork.ca",CBC News Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ColumnaTV.ro",Columna TV
+http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro",Digi 24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro",Euronews Romania
