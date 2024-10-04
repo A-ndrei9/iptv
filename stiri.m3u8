@@ -13,5 +13,23 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-id="MSNBC.us",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="4ktest.ca",4k Test
+#EXTINF:-1 tvg-id="CBSNews247.us",CBS News 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+#EXTINF:-1 tvg-id="EuroNewsRomania.ro",EuroNews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
+#EXTINF:-1 tvg-id="EuroNewsEnglish.fr",EuroNews English
+https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature4k.ca",LoveNature4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyRacing1.au",SkyRacing 1
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+#EXTINF:-1 tvg-id="SkyRacing2.au",SkyRacing 2
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="Fite247.us",Fite 24/7
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fite247_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.us",NFL Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 tvg-id="NFLNetwork.us",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
