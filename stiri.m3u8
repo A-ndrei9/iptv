@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AJE.qa",AJE
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News HD
