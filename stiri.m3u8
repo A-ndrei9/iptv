@@ -7,13 +7,23 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="CBSNews247.us",CBS News 24/7 HD
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us",MSNBC
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us",CBS News 24/7
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca",CBC News Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro",Euronews Romania
 https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr",Euronews English
 https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FOXNewsChannel.us",FOX News Channel
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us",MSNBC
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro",Pro TV News (1080p)
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="TheGuardian.uk",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWallStreetJournalLive.us",The Wall Street Journal Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+#EXTINF:-1 tvg-id="TheYoungTurks.us",The Young Turks
+https://tyt-samsungus.amagi.tv/playlist.m3u8
